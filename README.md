@@ -14,15 +14,8 @@ The function `calc_mean_erp`:
 - Computes the average ERP for each finger.
 - Plots the ERP curves.
 
-## Usage
-Run:
-```python
-fingers_erp_mean = calc_mean_erp("data/events_file_ordered.csv", "data/brain_data_channel_one.csv")
-```
-Make sure both input files are in place.
-
-## 📁 Repository Contents
+## Repository Contents
 - `main.py` – Main script, contains the calc_mean_erp function
 - `README.md` – Project description.
 - `data` – All the provided data files.
-- 'ERG graph.png' - The graph obtained from running the function
+- `ERG graph.png` - The graph obtained from running the function

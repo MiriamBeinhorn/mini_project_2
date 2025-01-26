@@ -1,8 +1,5 @@
-# mini_project_2
+# mini_project_2 - ERP Analysis for Finger Movements
 second mini-project for "Advanced Programming in Python" course
-
-
-# ERP Analysis for Finger Movements
 
 ## Project Overview
 This project analyzes brain activity during finger movements using ERP (Event-Related Potentials). The goal is to extract and visualize neural responses recorded via ECOG electrodes.
